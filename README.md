@@ -3,7 +3,7 @@
 ## Introduction
 This is the DS3001 project repository for the group containing Emily Zhou (csz6wd), Kevin Cha (hpb2gv), and Jonathan Lam (rgm6yp).
 
-The research question is [INSERT HERE] :) 
+The research question is how do we predict and prevent car crashes within Virginia by identifying hotspots and preventative measures.
 
 This was conducted using the [VDOT Crash Dataset](https://www.virginiaroads.org/datasets/VDOT::crash-data-1/explore?layer=0).
 
