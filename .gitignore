@@ -1,0 +1,5 @@
+# ignoring data file because it's absolutely massive. you'll need to download it yourself
+data/
+
+# virtual environment
+venv/
